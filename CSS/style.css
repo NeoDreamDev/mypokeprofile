@@ -3,7 +3,7 @@
 body {
   margin:0;
   font-family: arial, helvetica, sans-serif;
-  background: #333;
+  background: ##440066;
   color: #fff;
   font-size: 1.1em;
   line-height: 1.5;
@@ -38,7 +38,7 @@ p {
 /* .bg-image {
   background: linear-gradient(#3b1261, transparent 90%),
               linear-gradient(0deg, grey, transparent),
-} 
+}
  .btn {
   display: inline-block;
   background: #333;
